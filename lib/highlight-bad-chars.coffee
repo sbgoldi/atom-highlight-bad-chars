@@ -64,6 +64,7 @@ chars = [
   '\u00B8',  # cadilla
   '\u01C0',  # latin letter dental click
   '\u2223',  # divides
+  '\u3080',  # german Umlauts @ü by copy text from pdf-files
 ]
 
 charRegExp = '[' + chars.join('') + ']'
